@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">الدراسات الجغرافية(توجيهي)</string>
+    <string name="edt_name">ادخل اسمك</string>
+    <string name="btn1">الجغرافيا المناخية</string>
+    <string name="btn2">الموارد الطبيعية والبشرية</string>
+    <string name="btn3">مخاطر تهدد الارض</string>
+    <string name="btn4">السياحة</string>
+    <string name="btn5">الجغرافيا السياسية</string>
+    <string name="qus">أسئلة وحدات الكتاب</string>
+    <string name="summary">ملخص المادة</string>
+    <string name="next">التالي</string>
+    <string name="the_answer_here">الاجابة</string>
+    <string name="the_title_here">السؤال</string>
+    <string name="log_in">دخول</string>
+    <string name="login">تسجيل دخول</string>
+
+
+</resources>
